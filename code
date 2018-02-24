@@ -1,0 +1,15 @@
+#include <stdlib.h>
+#include <stdio.h>
+
+void saudacao ()
+{
+     printf ("Boa Noite!\n");
+}
+ 
+int main ()
+{
+    saudacao ();
+ 
+    system ("pause"); 
+    return 0;
+}
